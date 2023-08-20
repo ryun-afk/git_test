@@ -1,1 +1,14 @@
 git@github.com:ryun-afk/git_test.git
+
+git clone [copy SSH key from github]
+git push
+git push origin main
+
+git add .
+git commit -m "description of what I did to make snapshot different"
+
+git status
+git log
+
+Basic Syntax:
+program | action | destination
